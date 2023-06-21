@@ -1,0 +1,27 @@
+{
+  "name": "0023Modulo6Sesion5",
+  "version": "1.0.0",
+  "description": "Práctica Introducción Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo6Sesion5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo6Sesion5/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo6Sesion5#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "nodemon": "^2.0.22"
+  }
+}
